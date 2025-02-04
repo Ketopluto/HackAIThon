@@ -6,6 +6,9 @@ from langchain_core.prompts import PromptTemplate
 import os
 from typing import List, Dict
 import json
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def initialize_llm():
     """Initialize the Groq LLM with specified parameters."""
