@@ -1,2 +1,4 @@
 # HackAIThon
-Repo for HackAIThon - Stella Maris College
+Repo for Hack-AI-thon - Stella Maris College
+
+
