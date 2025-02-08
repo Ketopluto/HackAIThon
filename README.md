@@ -4,6 +4,10 @@
 
 InfiLib is an AI-powered e-learning assistant designed to provide structured learning paths, prerequisite assessments, study roadmaps, content summaries, and resource recommendations for various topics. It leverages large language models to generate relevant learning materials and facilitate interactive learning experiences.  
 
+Checkout the live version !
+- [Our Landing Page](https://sweet-cobbler-380a8b.netlify.app/) or
+- [Application link](https://rakheshkrishna2005-infilib.hf.space/)
+
 ## Features  
 
 - **Prerequisite Assessment**: Identifies essential concepts required to understand a topic and allows users to self-evaluate their proficiency.  
