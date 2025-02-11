@@ -107,5 +107,5 @@ For any **inquiries** or **issues**, please reach out via **GitHub Issues**. ğŸš
 ## ğŸ‘¥ **Contributors**  
 
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/Ketopluto/repositories/InfiLib/contributors?format=svg&limit=54" width="800"/>
+  <img src="https://api.vaunt.dev/v1/github/entities/Ketopluto/repositories/InfiLib/contributors?format=svg&limit=54" width="1500"/>
 </p>  
