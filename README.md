@@ -4,11 +4,6 @@
 
 InfiLib is an **AI-powered e-learning assistant** designed to enhance interactive learning experiences. It offers:  
 
-✅ **Structured learning paths**  
-✅ **Prerequisite evaluations**  
-✅ **Personalized study roadmaps**  
-✅ **Content summarization**  
-✅ **Resource recommendations**  
 
 Utilizing advanced **language models**, InfiLib generates **relevant educational materials** across multiple subjects, making learning efficient and engaging!  
 
